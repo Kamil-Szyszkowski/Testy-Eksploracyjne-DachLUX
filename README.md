@@ -45,5 +45,4 @@ Ten dokument został przygotowany w ramach testów eksploracyjnych strony dachlu
 
 ---
 
-**Jeżeli chcesz, mogę Ci od razu zrobić cały gotowy folder ZIP do wrzucenia na GitHub — z README.md i uporządkowanym plikiem Word.**  
-Chcesz?
+
