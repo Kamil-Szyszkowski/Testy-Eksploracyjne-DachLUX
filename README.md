@@ -35,7 +35,6 @@ Testy zostały przeprowadzone w środowisku użytkownika końcowego na komputerz
 
 W pliku `Testy Eksploracyjne Dach-LUX.docx` znajdują się szczegółowe opisy defektów, kroki do odtworzenia, rzeczywiste i oczekiwane rezultaty oraz linki do screenów:
 
-- 📄 [Testy Eksploracyjne Dach-LUX.docx](./Testy%20Eksploracyjne%20Dach-LUX.docx)
 
 ---
 
