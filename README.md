@@ -33,7 +33,11 @@ Testy zostały przeprowadzone w środowisku użytkownika końcowego na komputerz
 
 ## 🔗 Załączniki
 
-W pliku `Testy Eksploracyjne Dach-LUX.docx` znajdują się szczegółowe opisy defektów, kroki do odtworzenia, rzeczywiste i oczekiwane rezultaty oraz linki do screenów:
+-📄 Raport z testów – [Testy Eksploracyjne - DachLUX.docx](./TestyEksploracyjne_DachLUX.docx)
+
+-📄 Plan testów – [Plan-Testów-DachLUX.md](./Plan-Testów-DachLUX.md)
+
+
 
 
 ---
